@@ -8,6 +8,11 @@ a {
   font-size: 16px;
 }
 
+footer {
+  text-align: right;
+  color: gray;
+}
+
 .title {
   font-family: Verdana;
   font-weight: normal;
